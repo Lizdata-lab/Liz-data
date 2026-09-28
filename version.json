@@ -1,10 +1,10 @@
 {
-  "build": "2026-09-27 10:45 PM",
-  "notes": "LIZ-DATA complete",
+  "build": "2026-09-28 J1708 + OBD RP1210",
+  "notes": "J1708 (ATA) and CAN cars through NEXIQ / Cat Comm Adapter 3 (needs installer v4)",
   "files": [
     {
       "name": "LIZ-DATA.html",
-      "sha256": "8e504c1ad475cc53f023f76f92762410af37fe36eb7e3ecc15e6de55d8fc23b1"
+      "sha256": "0bfe89bb3698cdefbb75864ff440e6b9918f9d2c398b5cad61605256668e56bb"
     },
     {
       "name": "lizdata-launcher.ps1",
