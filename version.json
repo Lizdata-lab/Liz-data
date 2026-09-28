@@ -1,0 +1,14 @@
+{
+  "build": "2026-09-27 10:45 PM",
+  "notes": "LIZ-DATA complete",
+  "files": [
+    {
+      "name": "LIZ-DATA.html",
+      "sha256": "8e504c1ad475cc53f023f76f92762410af37fe36eb7e3ecc15e6de55d8fc23b1"
+    },
+    {
+      "name": "lizdata-launcher.ps1",
+      "sha256": "7d5ab55eaa6f2f6d6496b2b4edcb897fc5ddd06df178d8c72abe92797d8692d9"
+    }
+  ]
+}
