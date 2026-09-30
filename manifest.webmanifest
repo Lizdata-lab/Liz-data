@@ -1,0 +1,16 @@
+{
+  "name": "DATA-LIZ MODULE",
+  "short_name": "DATA-LIZ",
+  "description": "Configurar y leer el módulo DATA-LIZ por Bluetooth",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#0b1226",
+  "theme_color": "#1f4fbf",
+  "lang": "es",
+  "icons": [
+    {"src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable"}
+  ]
+}
